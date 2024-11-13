@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app>
 <welcome-file-list>
-<welcome-file>home1.html</welcome-file>
+<welcome-file>blog.jsp</welcome-file>
 
 </welcome-file-list>
 </web-app>
